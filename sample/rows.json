@@ -1,0 +1,10 @@
+{
+  "row_error_code": "E_BAD_ROW",
+  "rows": [
+    {"key": "alpha", "value": 3},
+    {"key": "beta", "value": 5},
+    {"key": "alpha", "value": 7},
+    {"key": "gamma", "value": 2},
+    {"key": "beta", "value": 1}
+  ]
+}
